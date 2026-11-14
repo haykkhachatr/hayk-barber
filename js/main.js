@@ -1,4 +1,4 @@
-// Hayk V. barber card: scroll reveals, sticky dock, 3D-coverflow haircut carousel, booking form (SMS + calendar file),
+// Barber card: scroll reveals, sticky dock, 3D-coverflow haircut carousel, booking form (SMS + calendar file),
 // map + navigation, copy / share, scissors cut, and the 3D pole.
 // Everything here is progressive: without JS the page is still a complete, tappable card (call, SMS, save, map links).
 import "./look.js";
